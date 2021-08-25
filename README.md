@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I am Animesh Maheshwari. I am passionate about learning and working in the domain of Machine Learning. I am learning and 
+Hello! I am Animesh Maheshwari. I am passionate about learning and working in the domain of Machine Learning. Currently I am learning and working in the domain of Computer Vision.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AnimeshMaheshwari22)
