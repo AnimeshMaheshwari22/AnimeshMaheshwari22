@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 Hello! I am Animesh Maheshwari. I am passionate about learning and working in the fields of Computer Vision and Machine Learning.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AnimeshMaheshwari22)
+
