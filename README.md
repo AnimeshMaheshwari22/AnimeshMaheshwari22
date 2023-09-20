@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I am Animesh Maheshwari. I am passionate about learning and working in the fields of Computer Vision and Machine Learning.
+Hello! I am Animesh Maheshwari. I am passionate about learning and working in Deep Learning.
 
 
